@@ -14,6 +14,11 @@
             "email": "michael@bretterklieber.com",
             "name": "Michael Bretterklieber",
             "role": "Lead"
+        },
+        {
+            "name": "Pierre",
+            "email": "dev@nettools.ovh",
+            "role": "Developer"
         }
     ],
     "autoload": {
@@ -27,7 +32,7 @@
         "./"
     ],
     "license": "BSD-3-Clause",
-    "name": "pear/auth_sasl",
+    "name": "net-tools/pear_auth_sasl",
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=Auth_SASL",
         "source": "https://github.com/pear/Auth_SASL"
